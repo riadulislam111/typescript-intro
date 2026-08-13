@@ -1,0 +1,11 @@
+"use strict";
+let district = 'Noakhali';
+district = 'Dhaka';
+const stock = 100;
+const isAvailable = false;
+// const officer: string = 345;
+let input = "hello";
+input = 456;
+console.log(input);
+// console.log(district);
+// console.log(stock);

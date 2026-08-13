@@ -6,3 +6,10 @@ const student = {
 };
 student.age = 45;
 console.log(student);
+let samsung = {
+    color: 'black',
+    model: "a51",
+    price: 40000,
+    battary: 5000
+};
+console.log(samsung);
